@@ -1,6 +1,6 @@
 using System.Collections.Concurrent;
 
-namespace GameServer.Connection;
+namespace Thuai.Server.Connection;
 
 public partial class AgentServer
 {

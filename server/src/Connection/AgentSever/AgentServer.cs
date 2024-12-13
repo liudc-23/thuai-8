@@ -3,7 +3,7 @@ using System.Text;
 using Fleck;
 using Serilog;
 
-namespace GameServer.Connection;
+namespace Thuai.Server.Connection;
 
 public partial class AgentServer
 {

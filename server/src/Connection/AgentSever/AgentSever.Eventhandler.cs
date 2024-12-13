@@ -1,7 +1,7 @@
-using GameServer.GameController;
-using GameServer.GameLogic;
+using Thuai.Server.GameController;
+using Thuai.Server.GameLogic;
 
-namespace GameServer.Connection;
+namespace Thuai.Server.Connection;
 
 public partial class AgentServer
 {

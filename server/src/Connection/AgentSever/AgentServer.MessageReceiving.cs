@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
 using System.Text.Json;
 
-namespace GameServer.Connection;
+namespace Thuai.Server.Connection;
 
 public partial class AgentServer
 {

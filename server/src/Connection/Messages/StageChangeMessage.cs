@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace GameServer.Connection;
+namespace Thuai.Server.Connection;
 
 public record StageChangeMessage : Message
 {

@@ -1,4 +1,4 @@
-namespace GameServer.Connection;
+namespace Thuai.Server.Connection;
 
 public class AfterMessageReceiveEventArgs : EventArgs
 {
